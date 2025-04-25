@@ -123,10 +123,7 @@ This runs your generation logic on every push.
 7. Summary
 You've successfully:
 
-✅ Set up AutoDoc AI locally
-
-✅ Connected it to GitHub
-
-✅ Built a FastAPI + Streamlit interface
-
+✅ Set up AutoDoc AI locally  
+✅ Connected it to GitHub  
+✅ Built a FastAPI + Streamlit interface  
 ✅ Automated PRs and commits with GitHub Actions
