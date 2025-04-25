@@ -8,8 +8,8 @@ It automatically produces:
 - 🔁 CI/CD-ready documentation updates through GitHub Actions
 
 Streamlit access link: http://3.130.104.76:8501/  
-FastAPI access link: http://3.130.104.76:8000/docs
-Codelabs link: https://bigdatasystemsteam5.github.io/Final_Project/#0
+FastAPI access link: http://3.130.104.76:8000/docs  
+Codelabs link: https://bigdatasystemsteam5.github.io/Final_Project/#0  
 Deployed application on AWS EC2 link: http://3.130.104.76:8501/  
  
 
