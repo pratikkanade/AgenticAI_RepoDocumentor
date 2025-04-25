@@ -127,17 +127,3 @@ You've successfully:
 ✅ Connected it to GitHub
 ✅ Built a FastAPI + Streamlit interface
 ✅ Automated PRs and commits with GitHub Actions
-
-
-## 📁 AI USE DISCLOSURE:
-
-```bash
--Required Attestation and Contribution Declaration WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK. 
-
--Contribution:
-
-Hishita Thakkar: 33 1/3%
-
-Asavari Shejwal: 33 1/3%
-
-Pratik Kanade: 33 1/3%
